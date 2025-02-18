@@ -1,0 +1,68 @@
+{
+    "products": [
+        
+        {"id":10001,
+          "name":"Basics To Advanced In React",
+          "price":100,
+            "description":"This book is for those who want to learn React from scratch. It covers all the concepts of React and is a must-read for beginners.",
+            "category":"Books",
+            "in_stock":true
+
+        },
+        {"id":10002,
+          "name":"Basics To Advanced In Angular",
+          "price":200,
+            "description":"This book is for those who want to learn Angular from scratch. It covers all the concepts of Angular and is a must-read for beginners.",
+            "category":"Books",
+            "in_stock":true
+
+        },
+        {"id":10003,
+          "name":"Basics To Advanced In Vue",
+          "price":300,
+            "description":"This book is for those who want to learn Vue from scratch. It covers all the concepts of Vue and is a must-read for beginners.",
+            "category":"Books",
+            "in_stock":true
+
+        },
+        {"id":10004,
+          "name":"Basics To Advanced In Node",
+          "price":400,
+            "description":"This book is for those who want to learn Node from scratch. It covers all the concepts of Node and is a must-read for beginners.",
+            "category":"Books",
+            "in_stock":true
+
+        },
+        {"id":10005,
+          "name":"Basics To Advanced In Express",
+          "price":500,
+            "description":"This book is for those who want to learn Express from scratch. It covers all the concepts of Express and is a must-read for beginners.",
+            "category":"Books",
+            "in_stock":false
+
+        },
+        {"id":10006,
+          "name":"Basics To Advanced In MongoDB",
+          "price":600,
+            "description":"This book is for those who want to learn MongoDB from scratch. It covers all the concepts of MongoDB and is a must-read for beginners.",
+            "category":"Books",
+            "in_stock":true
+
+        },
+        {"id":10007,
+          "name":"Basics To Advanced In Mongoose",
+          "price":700,
+            "description":"This book is for those who want to learn Mongoose from scratch. It covers all the concepts of Mongoose and is a must-read for beginners.",
+            "category":"Books",
+            "in_stock":false
+
+        },
+        {"id":10008,
+          "name":"Basics To Advanced In JavaScript",
+          "price":800,
+            "description":"This book is for those who want to learn JavaScript from scratch. It covers all the concepts of JavaScript and is a must-read for beginners.",
+            "category":"Books",
+            "in_stock":false
+        }
+    ]
+}
